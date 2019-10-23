@@ -21,11 +21,16 @@ void Output4()
 {
 	cout <<"Hello Master";
 }
+void Output5()
+{
+	cout <<"Hello Dog";
+}
 int main()
 {
     Output();
 	Output2();
 	Output3();
 	Output4();
+	Output5();
 	return 0;
 }
