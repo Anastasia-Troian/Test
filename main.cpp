@@ -17,11 +17,15 @@ void Output3()
 {
 	cout <<"Hello Smile";
 }
-
+void Output4()
+{
+	cout <<"Hello Master";
+}
 int main()
 {
     Output();
 	Output2();
-	Output();
+	Output3();
+	Output4();
 	return 0;
 }
